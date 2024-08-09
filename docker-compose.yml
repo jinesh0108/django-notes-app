@@ -3,4 +3,4 @@ services :
   web :
       image : qasimnauman/mynotesapp:latest
       ports :
-        - "8000:8000"
+        - "8010:8010"
